@@ -5,7 +5,7 @@
  *
  * @package WordPress
  */
-
+//Ilk versiyon
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
